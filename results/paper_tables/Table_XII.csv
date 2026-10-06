@@ -1,0 +1,7 @@
+Attack,Method,Messages,Macro-F1 ↑,Recall ↑,FPR ↓
+Data Replay,CaTCH,"406,801",0.5841,20.70%,6.01%
+Data Replay,SEARPC,"406,801",0.8964,79.37%,2.72%
+Time Delay,CaTCH,"406,801",0.4941,6.75%,5.80%
+Time Delay,SEARPC,"406,801",0.7373,48.08%,5.16%
+Pooled,CaTCH,"813,602",0.5441,14.25%,5.90%
+Pooled,SEARPC,"813,602",0.8250,64.91%,3.96%

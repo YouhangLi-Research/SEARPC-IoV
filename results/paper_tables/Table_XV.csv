@@ -1,0 +1,3 @@
+Method,DR adversarial share ↓,TD adversarial share ↓,DR ΔMacro-F1 (pp),DR ΔFPR (pp),TD ΔMacro-F1 (pp),TD ΔFPR (pp)
+Weighted mean,0.530%,0.514%,Reference,Reference,Reference,Reference
+SEARPC,0.150% (−71.6%),0.149% (−71.1%),−0.059,+0.019,−0.204,+0.019

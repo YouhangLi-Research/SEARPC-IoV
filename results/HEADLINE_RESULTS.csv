@@ -1,0 +1,13 @@
+stage,metric,baseline,baseline_raw,searpc_raw,absolute_change,relative_change,paired_inference,manuscript_location,evidence_level
+message_evidence,FPR,CaTCH,5.90%,3.96%,-1.94 pp,-32.88%,not paired,Table XI,published-adapter aggregate comparison
+role_authorization,malicious trusted authorization,SEARPC w/o Role Separation,3.475%-21.117%,0%,-3.475 to -21.117 pp,-100%,20 paired seeds; six cells,Table XIII,bundled-input full-grid rerun + original aggregate check
+correlation_domain,same-domain 1-to-7 total influence increment,BRS/TWSL,0.579-0.647,0.019,-0.560 to -0.628,-96.70% to -97.06%,20 paired seeds,Table XVIII,bundled-input full-grid rerun + original domain/rounded source claim checks
+canonical_participation,risk-weighted exposure,SEARPC w/o Same-k Reconfiguration,8.285%,5.732%,-2.553 pp,-30.82%,95% CI [-3.137;-1.960] pp; exact p=0.001953,Table XX,executable raw
+shared7_participation,risk-weighted exposure,Yadav,18.822%,8.025%,-10.797 pp,-57.36%,95% CI [-11.742;-9.891] pp; exact p=0.001953,Table XIX,executable block-level raw
+shared7_participation,risk-weighted exposure,BRBC,19.857%,8.025%,-11.832 pp,-59.59%,95% CI [-12.809;-11.018] pp; exact p=0.001953,Table XIX,executable block-level raw
+shared7_participation,wire,Yadav,558.9,393.6,-165.3,-29.58%,10 paired traces,Table XIX,executable block-level raw
+shared7_participation,wire,BRBC,581.3,393.6,-187.7,-32.29%,10 paired traces,Table XIX,executable block-level raw
+system_integration,Fetch p95 latency,Full set,115.62 ms,70.56 ms,-45.06 ms,-38.97%,five independent runs median,Table XXI,current maintained-runner five-launch certificate-integration measurements; synthetic warnings
+system_integration,Fetch wire,Full set,1428.9 KB/block,1019.6 KB/block,-409.3 KB/block,-28.65%,five independent runs median,Table XXI,current maintained-runner five-launch certificate-integration measurements; synthetic warnings
+finality,legal commit,matched fixed-Q methods,100%,100%,0 pp,0%,Q=27,Tables XIX-XXII,configured withholding-model progress and certificate checks
+finality,illegal acceptance (model-defined),matched fixed-Q methods,0,0,0,0%,Q=27,Tables XIX-XXII,model-defined zero; no conflicting-block attack evaluation

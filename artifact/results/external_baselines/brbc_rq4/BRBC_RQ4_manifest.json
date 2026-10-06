@@ -1,0 +1,35 @@
+{
+  "audit_budget_per_block": 7,
+  "audit_regime": "shared_exogenous",
+  "brbc": {
+    "initial_reputation": 7.0,
+    "judge_domains": [
+      "audit-0",
+      "audit-1",
+      "audit-2",
+      "audit-3"
+    ],
+    "strict_majority_below_threshold_for_ineligibility": 3,
+    "threshold": 7.0,
+    "unit_delta": 1.0
+  },
+  "network": {
+    "N": 40,
+    "Q": 27,
+    "k": 13,
+    "q_k": 9
+  },
+  "outputs": {
+    "BRBC_RQ4_block_level.csv": "f0e0f751f98775db357e6ad987836abef256a42d4e940cecea0c8ef884b00f60",
+    "BRBC_RQ4_paired_inference.csv": "92ba3f201eb9a03d507c875479cff04d1454a96fe1727144d2c8e38751c75a0f",
+    "BRBC_RQ4_risk_stream.csv": "2722e212af092bd05b2f1b04183a9c2b8d25636332d8948191fd5c3ee7819324",
+    "BRBC_RQ4_summary.csv": "1486cb3d96dc0118b2a955d9252ee880c5cad65986b7520240957cb34f339acb"
+  },
+  "protocol_status": "frozen before result computation",
+  "publication_label": "BRBC-derived reputation-threshold eligibility under shared fixed-finality",
+  "risk_stream": "experiments/SEARPC_EXPERIMENTS_CURRENT/results/content_risk/content_risk/CONTENT_RISK.csv",
+  "risk_stream_sha256": "2722e212af092bd05b2f1b04183a9c2b8d25636332d8948191fd5c3ee7819324",
+  "rows": 12000,
+  "runner_sha256": "0c739a6dfa154b5d77f1ffe19a45eb5f49da926993dd7aeb25ad654a2e77707f",
+  "current_runner_sha256": "f693371635675bf034f02704b6132a279da5fe284db5e9a2efd9e2270110c231"
+}

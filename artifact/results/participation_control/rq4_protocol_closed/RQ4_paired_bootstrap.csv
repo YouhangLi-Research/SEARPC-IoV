@@ -1,0 +1,2 @@
+baseline,treated,n_traces,bootstrap_draws,exposure_difference,exposure_ci95_low,exposure_ci95_high,handoff_difference,handoff_ci95_low,handoff_ci95_high
+feedback_fixed,searpc,10,20000,-0.027758078889085665,-0.03300655408857364,-0.020808658255571662,-0.028166666666666666,-0.03333333333333334,-0.021833333333333333

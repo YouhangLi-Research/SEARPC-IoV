@@ -1,0 +1,45 @@
+{
+  "comparisons": [
+    {
+      "attack": "dataReplay",
+      "cells": 60,
+      "frozen_counts_and_rates_exact": true,
+      "rows": 5460
+    },
+    {
+      "attack": "timeDelayAttack",
+      "cells": 60,
+      "frozen_counts_and_rates_exact": true,
+      "rows": 5460
+    }
+  ],
+  "elapsed_s": 57.74373722076416,
+  "parallelism": "Independent registered cells; parameters, random seeds, state updates and event traces unchanged",
+  "scientific_function": "run_searpc_cell",
+  "seeds": [
+    260825,
+    260826,
+    260827,
+    260828,
+    260829,
+    260830,
+    260831,
+    260832,
+    260833,
+    260834,
+    260835,
+    260836,
+    260837,
+    260838,
+    260839,
+    260840,
+    260841,
+    260842,
+    260843,
+    260844
+  ],
+  "source_sha256": "965118cdbc1c698c71d8c71af3e1d60e084137877b882d3b618062328950e85c",
+  "status": "PASS",
+  "threshold_count": 91,
+  "workers": 8
+}

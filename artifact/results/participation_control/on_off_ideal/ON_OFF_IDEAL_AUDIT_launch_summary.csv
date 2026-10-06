@@ -1,0 +1,16 @@
+launch,pattern,pattern_string,blocks,ever_warning_excluded_fraction,ever_quarantined_fraction,mean_warning_excluded_on_failure,mean_quarantined_malicious,false_quarantine_entities,coverage,label_error,delay,final_Q_min,final_Q_max,illegal_acceptance
+1,F-S-F-S,FS,600,1.0,0.0,11.8,0,0,1.0,0.0,10,27,27,0
+1,2F-1S,FFS,600,1.0,0.0,5.91,0,0,1.0,0.0,10,27,27,0
+1,burst-2F-3S,FFSSS,600,1.0,0.0,11.8,0,0,1.0,0.0,10,27,27,0
+2,F-S-F-S,FS,600,1.0,0.0,11.8,0,0,1.0,0.0,10,27,27,0
+2,2F-1S,FFS,600,1.0,0.0,5.91,0,0,1.0,0.0,10,27,27,0
+2,burst-2F-3S,FFSSS,600,1.0,0.0,11.8,0,0,1.0,0.0,10,27,27,0
+3,F-S-F-S,FS,600,1.0,0.0,11.8,0,0,1.0,0.0,10,27,27,0
+3,2F-1S,FFS,600,1.0,0.0,5.91,0,0,1.0,0.0,10,27,27,0
+3,burst-2F-3S,FFSSS,600,1.0,0.0,11.8,0,0,1.0,0.0,10,27,27,0
+4,F-S-F-S,FS,600,1.0,0.0,11.8,0,0,1.0,0.0,10,27,27,0
+4,2F-1S,FFS,600,1.0,0.0,5.91,0,0,1.0,0.0,10,27,27,0
+4,burst-2F-3S,FFSSS,600,1.0,0.0,11.8,0,0,1.0,0.0,10,27,27,0
+5,F-S-F-S,FS,600,1.0,0.0,11.8,0,0,1.0,0.0,10,27,27,0
+5,2F-1S,FFS,600,1.0,0.0,5.91,0,0,1.0,0.0,10,27,27,0
+5,burst-2F-3S,FFSSS,600,1.0,0.0,11.8,0,0,1.0,0.0,10,27,27,0

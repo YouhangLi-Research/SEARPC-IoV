@@ -1,0 +1,9 @@
+partition,partition_abbr,attack,scenario_id,attack_rate_pct
+Highway Train,HT,Replay,HT–Replay,17.34967242248216
+Highway Train,HT,Delay,HT–Delay,20.277976711493064
+Highway Validation,HV,Replay,HV–Replay,17.867274851198754
+Highway Validation,HV,Delay,HV–Delay,19.647327140234744
+Urban Test,UT,Replay,UT–Replay,18.353199721731265
+Urban Test,UT,Delay,UT–Delay,15.7656937913132
+Urban Holdout,UH,Replay,UH–Replay,19.477065796254937
+Urban Holdout,UH,Delay,UH–Delay,18.85552310599553

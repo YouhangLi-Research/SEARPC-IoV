@@ -1,0 +1,10 @@
+scope,attack,method,maximum_absolute_error,pass
+pooled_external_test,all,random_forest,6.938893903907228e-17,1
+pooled_external_test,all,single_hgbdt,1.1102230246251565e-16,1
+pooled_external_test,all,durac_ensemble,2.7755575615628914e-17,1
+attack_external_test,dataReplay,random_forest,5.551115123125783e-17,1
+attack_external_test,dataReplay,single_hgbdt,3.3306690738754696e-16,1
+attack_external_test,dataReplay,durac_ensemble,1.1102230246251565e-16,1
+attack_external_test,timeDelayAttack,random_forest,1.249000902703301e-16,1
+attack_external_test,timeDelayAttack,single_hgbdt,1.942890293094024e-16,1
+attack_external_test,timeDelayAttack,durac_ensemble,8.326672684688674e-17,1

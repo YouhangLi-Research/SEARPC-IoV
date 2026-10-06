@@ -1,0 +1,9 @@
+attack,layout,variant,paired_seeds,one_to_seven_increase_mean,one_to_seven_increase_sd,positive_slope_count
+dataReplay,concentrated,brs_identity_pooling,20,0.578733804222945,0.020442968535844687,20
+dataReplay,concentrated,twsl_local_identity_pooling,20,0.6470528229596536,0.024484471199318684,20
+dataReplay,distributed_control,brs_identity_pooling,20,0.4668404628174653,0.01216054777530782,20
+dataReplay,distributed_control,twsl_local_identity_pooling,20,0.5174469697404097,0.0141847253400929,20
+timeDelayAttack,concentrated,brs_identity_pooling,20,0.5789625754327162,0.01767033509703351,20
+timeDelayAttack,concentrated,twsl_local_identity_pooling,20,0.6466280611702172,0.020684594262141674,20
+timeDelayAttack,distributed_control,brs_identity_pooling,20,0.4713850686296872,0.014902906921101388,20
+timeDelayAttack,distributed_control,twsl_local_identity_pooling,20,0.5229830278096345,0.01746296464600681,20

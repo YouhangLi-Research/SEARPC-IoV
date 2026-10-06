@@ -1,0 +1,19 @@
+{
+  "budgets": [
+    3,
+    5,
+    7,
+    9,
+    13
+  ],
+  "input_sha256": "2722e212af092bd05b2f1b04183a9c2b8d25636332d8948191fd5c3ee7819324",
+  "rows": 30,
+  "rq4_runner_sha256": "79a6bea81c8c7c6bbdd84e10ccc4b343ce579b9665d322289772cb6336bfef38",
+  "runner_sha256": "ff47eb5cab094a3eec44158c2d81320d478a03e81b8c6ceb7db82149c980091a",
+  "trigger_modes": [
+    "real",
+    "shuffled",
+    "random"
+  ],
+  "current_runner_sha256": "2d1c8f01bd3a1f7a120f1f414c54881954370d1c5ac072a04db41cedb0fb791d"
+}

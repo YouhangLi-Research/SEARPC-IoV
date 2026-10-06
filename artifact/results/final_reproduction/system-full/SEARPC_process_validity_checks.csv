@@ -1,0 +1,9 @@
+check,pass
+missing_block_refuses_signature,1
+corrupt_block_refuses_signature,1
+valid_block_is_cached,1
+all_legal_blocks_committed,1
+fixed_final_quorum_never_lowered,1
+forty_process_uses_Q27,1
+additional_certificate_handoff_valid,1
+full_set_fallback_recovers,1

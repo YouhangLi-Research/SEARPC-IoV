@@ -1,0 +1,7 @@
+{
+  "cpu_quota_vcpus": 8,
+  "cpu_visible_logical_count": 9,
+  "memory_cgroup_limit_bytes": 8589934592,
+  "python": "3.12.14",
+  "measurement_host": "same-host Linux x86_64"
+}

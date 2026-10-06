@@ -1,0 +1,7 @@
+column,required,meaning,unit_or_domain
+timestamp,yes,Interaction time,Unix seconds or ISO-8601
+requestor_id,yes,Vehicle forming the local opinion,string
+provider_id,yes,Vehicle being evaluated,string
+outcome,yes,Verified interaction result,positive/negative or 1/0
+communication_quality,yes unless a declared config default is used,Successful packet-transmission probability,[0,1]
+

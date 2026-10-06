@@ -1,0 +1,17 @@
+{
+  "clusters": {
+    "canonical_sha256": "0119ed4806af277cfc334ba4d3b7646e3d895b953c19193d437a2c7d2e9f9348",
+    "exact_match": true,
+    "generated_sha256": "0119ed4806af277cfc334ba4d3b7646e3d895b953c19193d437a2c7d2e9f9348"
+  },
+  "differences": {
+    "canonical_sha256": "19f011b1dd107ab2246816aa02c3918c62cd5ca63f7eb70d846089cac82afc61",
+    "exact_match": true,
+    "generated_sha256": "19f011b1dd107ab2246816aa02c3918c62cd5ca63f7eb70d846089cac82afc61"
+  },
+  "intervals": {
+    "canonical_sha256": "3d97a7b60ca2f79e95621b1f9669972c7ff3f8e1cfa612fae096b1113d442858",
+    "exact_match": true,
+    "generated_sha256": "3d97a7b60ca2f79e95621b1f9669972c7ff3f8e1cfa612fae096b1113d442858"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "elapsed_s": 31.24303758799988,
+  "key": "cold__timeDelayAttack__seed260840",
+  "kind": "cold",
+  "rows": [
+    {
+      "adversarial_effective_weight_share": 0.005266955392059315,
+      "attack": "timeDelayAttack",
+      "cold_honest_mean_weight": 0.5861951621855493,
+      "cold_identities": 466,
+      "cold_malicious_mean_weight": 0.010441192550570848,
+      "data_attackers": 233,
+      "event_f1": 0.9862523270800516,
+      "event_fpr": 0.00017060188344479322,
+      "event_macro_f1": 0.9914934549444954,
+      "event_recall": 0.9735651682216567,
+      "identities": 1165,
+      "join_index": 20011,
+      "messages": 36382,
+      "opinion_attackers": 233,
+      "raw_inverted_weight_share": 0.006815672187345903,
+      "seed": 260840,
+      "variant": "dual_role_mean_weight"
+    },
+    {
+      "adversarial_effective_weight_share": 0.0016738849245941918,
+      "attack": "timeDelayAttack",
+      "cold_honest_mean_weight": 0.5328961708337796,
+      "cold_identities": 466,
+      "cold_malicious_mean_weight": 0.0022028776140696205,
+      "data_attackers": 233,
+      "event_f1": 0.9832795120200933,
+      "event_fpr": 0.00034120376688958644,
+      "event_macro_f1": 0.9896594401794189,
+      "event_recall": 0.9684761096974838,
+      "identities": 1165,
+      "join_index": 20011,
+      "messages": 36382,
+      "opinion_attackers": 233,
+      "raw_inverted_weight_share": 0.0015309089035662011,
+      "seed": 260840,
+      "variant": "dual_role_lcb_weight"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use SEARPC or this artifact, please cite the accompanying manuscript."
+title: "SEARPC: Secure Interaction in Vehicular Consortium Blockchains through Scoped Evidence Authorization and RSU Participation Control"
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Youhang"
+date-released: 2026-10-06
+repository-code: "https://github.com/YouhangLi-Research/SEARPC-IoV"
+license: MIT
+keywords:
+  - Internet of Vehicles
+  - consortium blockchain
+  - trust management
+  - RSU participation
+  - Byzantine fault tolerance

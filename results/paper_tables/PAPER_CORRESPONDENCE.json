@@ -1,0 +1,85 @@
+{
+  "tables": {
+    "XI": {
+      "rows": 4,
+      "cells": 28,
+      "status": "PASS"
+    },
+    "XII": {
+      "rows": 6,
+      "cells": 36,
+      "status": "PASS"
+    },
+    "XIII": {
+      "rows": 3,
+      "cells": 27,
+      "status": "PASS"
+    },
+    "XIV": {
+      "rows": 3,
+      "cells": 21,
+      "status": "PASS"
+    },
+    "XV": {
+      "rows": 2,
+      "cells": 14,
+      "status": "PASS"
+    },
+    "XVI": {
+      "rows": 2,
+      "cells": 10,
+      "status": "PASS"
+    },
+    "XVII": {
+      "rows": 2,
+      "cells": 10,
+      "status": "PASS"
+    },
+    "XVIII": {
+      "rows": 3,
+      "cells": 18,
+      "status": "PASS"
+    },
+    "XIX": {
+      "rows": 3,
+      "cells": 21,
+      "status": "PASS"
+    },
+    "XX": {
+      "rows": 3,
+      "cells": 21,
+      "status": "PASS"
+    },
+    "XXI": {
+      "rows": 3,
+      "cells": 21,
+      "status": "PASS"
+    }
+  },
+  "figures": {
+    "experimental_panels": 28,
+    "framework_figures": 3,
+    "manuscript_assets": "PASS",
+    "generated_panels": "not requested"
+  },
+  "measured_blocks": 30000,
+  "communication_bytes_per_KB": 1000,
+  "source_files_sha256": {
+    "artifact/results/rq1/SEARPC_clustered_method_intervals.csv": "3d97a7b60ca2f79e95621b1f9669972c7ff3f8e1cfa612fae096b1113d442858",
+    "artifact/results/rq1/SEARPC_catch_metrics.csv": "36fad262024ed663bf16d19f7891a66525ac260e60b70115e73860eb39400539",
+    "artifact/results/vehicle_role/RQ2_uniform_raw.csv": "48d388d1357ffb64980eff82f3335f527a60717cefdc5d5c68a3fbd9cef3f54f",
+    "artifact/results/brs_authorization/BRS_authorization_raw.csv": "1407410dd5a0464be24c0c4628fe5da46a6cd7c8657ede4a63830afa05b0f933",
+    "figures/experimental/fig5_to_fig11/data/pareto_risk_budget.csv": "4d73f07adb6d7212c7f186a510b9bcc48b132ff0ff8c3e170266fac36f1833d8",
+    "artifact/results/vehicle_role/RQ2_cold_summary.csv": "43519d1a2a5932b4e6ac5fa4f921606a287b9e992f9cc165795b8dfc808ab8bc",
+    "artifact/results/vehicle_domain/RQ3_summary.csv": "80c69293aa74ded8afcdb1e2466194d618ebede0ade0030ccb9b1788d51abcf6",
+    "artifact/results/vehicle_source_baselines/IDENTITY_MULTIPLICITY_EXTERNAL_summary.csv": "b18a32f83939180b9258cbe1ec74881df6b43f48d543783f3a49491ae50cf608",
+    "artifact/results/shared7_baseline/yadav_shared7/YADAV_SHARED7_summary.csv": "1b42d85e088f45e6c0b638b2ee8105ce35b254b24c85d1b786d57bb7302eafc4",
+    "artifact/results/external_baselines/brbc_rq4/BRBC_RQ4_summary.csv": "1486cb3d96dc0118b2a955d9252ee880c5cad65986b7520240957cb34f339acb",
+    "artifact/results/participation_control/rq4_protocol_closed/RQ4_summary.csv": "2b08d4d65f3a5bad64dff411f7a69bd4a61b4b5df071822c3499ab505793f9fe",
+    "artifact/results/participation_control/manuscript_tables/RQ4_PAIRED_TRACE_BOOTSTRAP.csv": "cec2c76f8ea8227e6165db8f233c4df80dd7f69fbc7c286356494e174af97819",
+    "artifact/results/final_reproduction/system-full/SEARPC_process_block_level.csv": "40aecf0d405abc91957b677946883cb76418a17af23735e1162435829321d503",
+    "artifact/results/final_reproduction/system-full/SEARPC_process_per_launch.csv": "9caadde35dd2644531d35d91b195c594108f35f2951c6c2eedf3928aa45842b0",
+    "figures/experimental/fig5_to_fig11/data/SEARPC_process_per_launch.csv": "9caadde35dd2644531d35d91b195c594108f35f2951c6c2eedf3928aa45842b0"
+  },
+  "status": "PASS"
+}

@@ -1,0 +1,12 @@
+{
+  "cells": 320,
+  "mode": "full",
+  "reference_comparison": {
+    "cells": 64,
+    "maximum_absolute_error": 2.220446049250313e-16,
+    "pass": true,
+    "reference": "figures/experimental/fig5_to_fig11/data/RQ3_summary_student_t.csv",
+    "values_checked": 192
+  },
+  "rows": 1280
+}

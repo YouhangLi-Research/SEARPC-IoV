@@ -1,0 +1,10 @@
+{
+  "bootstrap_draws": 20000,
+  "equal_budget_blocks": "experiments/SEARPC_EXPERIMENTS_CURRENT/results/participation_control/equal_audit_budget/AUDIT_BUDGET_block_level.csv",
+  "equal_budget_blocks_sha256": "a909096ab9c7a77aa89590f99258605d0cd8523bc6fda9e9a99cfa260fc5c0d9",
+  "inferential_unit": "paired trace",
+  "rq4_blocks": "experiments/SEARPC_EXPERIMENTS_CURRENT/results/participation_control/rq4_protocol_closed/RQ4_block_level.csv",
+  "rq4_blocks_sha256": "a70bb5a4337ec35f5e97ee589f387ce7ad5359d1dcd752f3af65c8637b2ec7f0",
+  "runner_sha256": "50bd89f1de4ac38dcf3267ce37b50c693b08c4a944ff8e38003f6daeda023f4d",
+  "current_runner_sha256": "f41a03d3a412d5d151734e1f97b042a3d634d21cca54c9d5fa6a6c88c96e4776"
+}

@@ -1,0 +1,23 @@
+{
+  "scope": "Controlled-stream adjudication delivery and perturbation checks",
+  "error_rates": [
+    0.0,
+    0.05,
+    0.1
+  ],
+  "delays_events": [
+    0,
+    10,
+    30
+  ],
+  "events_per_case": 96,
+  "cases": 36,
+  "passed_cases": 36,
+  "early_online_deliveries": 0,
+  "domain_cap_bound_violations": 0,
+  "sources_sha256": {
+    "scripts/check_adjudication_delivery.py": "8afeca37e19accb3d6575954b122c88cb48ec2970c83cae1995fa96e37d63d6d",
+    "artifact/code/participation_control/run_holdout_authorization.py": "f78912ef6dd5a733d74088327241f3cacb52c452b5ce08dc38582fabf6dd1288",
+    "artifact/code/participation_control/run_durac_domain_cap_2x2.py": "8d3a51be3c8828aad4141770a90f3ce23b23209d06091db5a5ba3bc5c73cd156"
+  }
+}

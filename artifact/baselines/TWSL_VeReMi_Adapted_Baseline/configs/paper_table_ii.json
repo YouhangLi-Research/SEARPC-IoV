@@ -1,0 +1,20 @@
+{
+  "gamma": 0.5,
+  "theta_positive": 0.6,
+  "tau_negative": 0.4,
+  "zeta_recent": 0.6,
+  "sigma_past": 0.4,
+  "psi_speed": 0.3,
+  "psi_location": 0.4,
+  "psi_direction": 0.3,
+  "rho_frequency": 0.5,
+  "rho_similarity": 0.5,
+  "recent_horizon_seconds": 604800.0,
+  "history_window_seconds": null,
+  "update_period_seconds": 900.0,
+  "lcs_position_tolerance": 0.0,
+  "missing_trajectory_policy": "error",
+  "communication_quality_default": null,
+  "enforce_text_inequalities": false,
+  "profile_name": "paper_table_ii_literal"
+}

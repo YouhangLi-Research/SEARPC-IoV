@@ -1,0 +1,12 @@
+{
+  "cells": 120,
+  "rows": 10920,
+  "seeds": 20,
+  "thresholds": 91,
+  "update_rule": "Pooled provider outcomes and recommender honesty; delayed delivery",
+  "sources_sha256": {
+    "scripts/run_brs_authorization.py": "3bbaf5cecbae29c05b3b1daf801036a1fa9ca14929450afa6ec57847ac9113e0",
+    "artifact/code/participation_control/run_dual_role.py": "97a382dc86ca8206825864b68e17da407a38453d9ea3f2f3116bc5344e269f48",
+    "data/derived/rq2_trace_bundle_exact.npz": "09d7fe87141f7467057e1176a09efff0a93167df5aa97b8d5715486c8cb79cc0"
+  }
+}

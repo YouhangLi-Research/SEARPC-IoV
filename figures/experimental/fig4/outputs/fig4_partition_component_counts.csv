@@ -1,0 +1,5 @@
+partition,Replay—Benign,Replay—Attack,Delay—Benign,Delay—Attack,Total
+Highway Train,31160,6541,30056,7645,75402
+Highway Validation,14765,3212,14445,3532,35954
+Urban Test,332140,74661,342666,64135,813602
+Urban Holdout,234362,56688,236171,54879,582100

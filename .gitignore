@@ -1,0 +1,23 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+/outputs/
+dist/
+build/
+*.log
+
+# Editor and temporary files
+*.tmp
+*.swp
+*.swo
+.~lock*

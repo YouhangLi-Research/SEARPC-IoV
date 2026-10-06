@@ -1,0 +1,17 @@
+{
+  "input": "experiments/SEARPC_EXPERIMENTS_CURRENT/results/participation_control/rq4_protocol_closed/RQ4_block_level.csv",
+  "input_sha256": "a70bb5a4337ec35f5e97ee589f387ce7ad5359d1dcd752f3af65c8637b2ec7f0",
+  "models": [
+    "legal_sign",
+    "withhold",
+    "selective_sign",
+    "equivocation_invalid",
+    "honest_network_timeout"
+  ],
+  "outputs": {
+    "TRANSCRIPT_ROBUSTNESS_raw.csv": "4c3659c4189da7b029b7ab87cd1d02cb9309916f229cb90a1946f4f08895f279",
+    "TRANSCRIPT_ROBUSTNESS_summary.csv": "d9221717128888298e803ecbf909e051b6a863c2e48994a8c9e8ede1e0250fac"
+  },
+  "runner_sha256": "c3f2550dbd5954f6d7eda3dc570aaa157c84202425f2bd2dd4d6d0e54cf1f7e4",
+  "current_runner_sha256": "7338737f75a367ab99f0d5bcb7135f881e638b6836b2434aee4f43f5e6ee88f8"
+}

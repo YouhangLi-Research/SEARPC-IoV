@@ -1,0 +1,51 @@
+{
+  "elapsed_s": 9.455906084000162,
+  "key": "external__timeDelayAttack__distributed_control__m1__seed260843",
+  "kind": "external",
+  "rows": [
+    {
+      "attack": "timeDelayAttack",
+      "attack_stop": 30925,
+      "domain_cap": 0,
+      "early_adversarial_weight_share": 0.05367304421286546,
+      "early_events": 50,
+      "early_fused_error_rate": 0.0,
+      "event_f1": 0.9575295239492408,
+      "event_fpr": 0.0010918520540466768,
+      "event_macro_f1": 0.9738688528913984,
+      "event_recall": 0.9226745829799264,
+      "join_index": 20011,
+      "layout": "distributed_control",
+      "messages": 36382,
+      "multiplicity": 1,
+      "seed": 260843,
+      "variant": "brs_identity_pooling",
+      "weighting": "brs_mean",
+      "window_adversarial_weight_share": 0.025780354000517914,
+      "window_events": 10914,
+      "window_fused_error_rate": 0.0
+    },
+    {
+      "attack": "timeDelayAttack",
+      "attack_stop": 30925,
+      "domain_cap": 0,
+      "early_adversarial_weight_share": 0.08133442149082178,
+      "early_events": 50,
+      "early_fused_error_rate": 0.0,
+      "event_f1": 0.845976646278497,
+      "event_fpr": 0.006482871570902143,
+      "event_macro_f1": 0.9068769812198467,
+      "event_recall": 0.7527565733672604,
+      "join_index": 20011,
+      "layout": "distributed_control",
+      "messages": 36382,
+      "multiplicity": 1,
+      "seed": 260843,
+      "variant": "twsl_local_identity_pooling",
+      "weighting": "twsl_local_expectation",
+      "window_adversarial_weight_share": 0.0696400556497192,
+      "window_events": 10914,
+      "window_fused_error_rate": 0.0
+    }
+  ]
+}

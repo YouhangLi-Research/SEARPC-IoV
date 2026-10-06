@@ -1,0 +1,21 @@
+{
+  "gamma": 0.5,
+  "theta_positive": 0.4,
+  "tau_negative": 0.6,
+  "zeta_recent": 0.6,
+  "sigma_past": 0.4,
+  "psi_speed": 0.3,
+  "psi_location": 0.4,
+  "psi_direction": 0.3,
+  "rho_frequency": 0.5,
+  "rho_similarity": 0.5,
+  "recent_horizon_seconds": 604800.0,
+  "history_window_seconds": 900.0,
+  "update_period_seconds": 900.0,
+  "lcs_position_tolerance": 0.0,
+  "missing_trajectory_policy": "error",
+  "communication_quality_default": 0.2,
+  "enforce_text_inequalities": true,
+  "profile_name": "veremi_text_consistent_q0.2",
+  "evaluation_protocol": "veremi_adapted"
+}

@@ -1,0 +1,54 @@
+{
+  "audit_budget_per_block": 7,
+  "audit_regime": "shared_exogenous",
+  "blocks_per_trace": 600,
+  "delivery_delay_blocks": 10,
+  "external_reference_doi": "10.1109/TVT.2025.3575775",
+  "network": {
+    "N": 40,
+    "Q": 27,
+    "k": 13,
+    "q_k": 9
+  },
+  "outputs": {
+    "YADAV_SHARED7_block_level.csv": "75dd8d93b4b8f31477f7b0e57c2e341e92bde9706a95980fca4d71da85e9d963",
+    "YADAV_SHARED7_paired_inference.csv": "289f6b6a642da0e8fa60819a2f477ac1a2eaa03ac465820185f9543b152b85d8",
+    "YADAV_SHARED7_per_trace.csv": "c9540b002879448ab7cde9d40f1f15e64d11c5069f7cb2088b61e042cee0221b",
+    "YADAV_SHARED7_risk_stream.csv": "2722e212af092bd05b2f1b04183a9c2b8d25636332d8948191fd5c3ee7819324",
+    "YADAV_SHARED7_summary.csv": "1b42d85e088f45e6c0b638b2ee8105ce35b254b24c85d1b786d57bb7302eafc4",
+    "YADAV_SHARED7_validation.csv": "e846aa563615d4c6766626c4b32e5d6e692f0703a79c27e8a5b93a8ec9b35838"
+  },
+  "publication_label": "Yadav direct-history trust-ranked selection",
+  "risk_stream": "results/participation_control/rq4_protocol_closed/RQ4_risk_stream.csv",
+  "risk_stream_sha256": "2722e212af092bd05b2f1b04183a9c2b8d25636332d8948191fd5c3ee7819324",
+  "rows": 12000,
+  "runner_sha256": "c4465975fd91463a0a9704a333e59d56539615060f8759bb8ca1b90e131fab61",
+  "status": "deterministic result-provenance closure",
+  "traces": 10,
+  "trust": {
+    "caller_controlled_event_label": false,
+    "direct_history": "successes/(successes+failures)",
+    "pseudo_failures": 1.0,
+    "pseudo_successes": 1.0,
+    "selection": "highest trust; deterministic hash tie resolution",
+    "tie_seed": "frozen adapter seed plus canonical repeat/height context"
+  },
+  "validation": {
+    "all_pairing_and_protocol_checks_pass": 1,
+    "audit_count_mismatches": 0,
+    "audit_outcome_mismatches": 0,
+    "audit_target_mismatches": 0,
+    "evidence_root_mismatches": 0,
+    "exact_seven_audits_pass": 1,
+    "fixed_final_Q27_pass": 1,
+    "fixed_k13_pass": 1,
+    "illegal_acceptance_zero_pass": 1,
+    "legal_commit_100pct_pass": 1,
+    "missing_method_blocks": 0,
+    "paired_blocks": 6000,
+    "searpc_rows": 6000,
+    "seed_projection_mismatches": 0,
+    "yadav_rows": 6000
+  },
+  "current_runner_sha256": "e6780f6a9ca6ceaa0f9a8ab817d04497fda22706d84a437745ad7da50231f9f7"
+}

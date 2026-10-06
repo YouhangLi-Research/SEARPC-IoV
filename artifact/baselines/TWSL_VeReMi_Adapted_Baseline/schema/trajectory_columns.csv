@@ -1,0 +1,8 @@
+column,required,meaning,unit_or_domain
+timestamp,yes,Trajectory sample time,Unix seconds or ISO-8601
+vehicle_id,yes,Vehicle identity,string
+x,yes,Projected horizontal coordinate,consistent linear unit
+y,yes,Projected vertical coordinate,consistent linear unit
+speed,yes for Eq. 7,Vehicle speed,any consistent non-negative unit
+direction_radians,no,Heading in radians; inferred from endpoints if absent,[0,2pi)
+

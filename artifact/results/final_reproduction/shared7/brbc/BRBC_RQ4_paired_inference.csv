@@ -1,0 +1,9 @@
+baseline,treated,metric,n_traces,searpc_minus_brbc_mean,ci95_low,ci95_high,exact_sign_flip_p,searpc_favorable_count
+brbc_eligibility,searpc_core_shared_audits,risk_weighted_exposure,10,-0.11831012510364271,-0.12809086948062998,-0.11017599366405495,0.001953125,10
+brbc_eligibility,searpc_core_shared_audits,unweighted_exceedance_rate,10,-0.1175,-0.12733333333333333,-0.10933333333333334,0.001953125,10
+brbc_eligibility,searpc_core_shared_audits,actual_handoff_rate,10,-0.1175,-0.12733333333333333,-0.109,0.001953125,10
+brbc_eligibility,searpc_core_shared_audits,direct_standard_rate,10,0.0001666666666666667,0,0.0005,1.0,0
+brbc_eligibility,searpc_core_shared_audits,expensive_full_path_rate,10,-0.11733333333333333,-0.12733333333333333,-0.109,0.001953125,10
+brbc_eligibility,searpc_core_shared_audits,mean_active_pool,10,-9.651333333333334,-9.837666666666667,-9.468166666666667,0.001953125,0
+brbc_eligibility,searpc_core_shared_audits,mean_selected_compromised_fraction,10,-0.1303846153846154,-0.1341923076923077,-0.12664102564102564,0.001953125,10
+brbc_eligibility,searpc_core_shared_audits,mean_total_wire_messages,10,-187.65733333333333,-203.64733333333334,-174.29099999999997,0.001953125,10

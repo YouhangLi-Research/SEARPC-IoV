@@ -1,0 +1,7 @@
+{
+  "input_sha256": "a70bb5a4337ec35f5e97ee589f387ce7ad5359d1dcd752f3af65c8637b2ec7f0",
+  "pool_count_mismatches": 0,
+  "rows": 6000,
+  "runner_sha256": "e6c730e36804e1f957e0525ad3207ae0db64caf16baef015957fa8dda9e86d8d",
+  "current_runner_sha256": "cba43533a7cfc303f1a2262f35c56d9337807c369f58844a96fbcb908ee10ccd"
+}

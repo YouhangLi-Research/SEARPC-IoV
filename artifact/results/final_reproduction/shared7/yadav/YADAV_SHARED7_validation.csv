@@ -1,0 +1,2 @@
+paired_blocks,missing_method_blocks,audit_target_mismatches,audit_outcome_mismatches,audit_count_mismatches,seed_projection_mismatches,evidence_root_mismatches,exact_seven_audits_pass,fixed_k13_pass,fixed_final_Q27_pass,legal_commit_100pct_pass,illegal_acceptance_zero_pass,yadav_rows,searpc_rows,all_pairing_and_protocol_checks_pass
+6000,0,0,0,0,0,0,1,1,1,1,1,6000,6000,1

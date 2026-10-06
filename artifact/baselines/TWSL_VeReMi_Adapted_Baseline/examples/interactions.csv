@@ -1,0 +1,12 @@
+timestamp,requestor_id,provider_id,outcome,communication_quality
+0,R1,P1,positive,0.4
+60,R1,P1,positive,0.4
+120,R1,P1,negative,0.4
+0,R2,P1,negative,0.3
+60,R2,P1,negative,0.3
+120,R2,P1,positive,0.3
+0,R1,P2,positive,0.4
+60,R1,P2,positive,0.4
+120,R2,P2,positive,0.3
+180,R2,P2,negative,0.3
+

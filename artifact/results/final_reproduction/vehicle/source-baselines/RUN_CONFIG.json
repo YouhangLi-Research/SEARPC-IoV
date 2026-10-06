@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "numpy": "2.3.5",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.17.0"
+  },
+  "input_sha256": {
+    "SEARPC_holdout_holdout_predictions.csv": "58a93ef9159a7a090654c8b3adc4ffb5eeaabd7f895049e32c4911ec5c82b915",
+    "rq2_trace_bundle_exact.npz": "09d7fe87141f7467057e1176a09efff0a93167df5aa97b8d5715486c8cb79cc0"
+  },
+  "mode": "full",
+  "python": "3.12.14",
+  "scientific_sources": {
+    "artifact/baselines/TWSL_VeReMi_Adapted_Baseline/src/twsl_baseline/core.py": "c39ceb7ac2117d6163e8d548b73865d53c23b1ef28d14caa6238b8835b0ed2ce",
+    "artifact/code/participation_control/adjudication.py": "9e6af7fad42dacc2f2222fc868d30f7720f5e3a5650651b2a8ad0433edb502db",
+    "artifact/code/participation_control/authority.py": "a16749764f9d08d492dbe864ed99e5ff95e147a3b74f091cff51059f8339fc02",
+    "artifact/code/participation_control/identity_multiplicity_external.py": "f4a9369ec9e5bbbb6a64ca4eea471e35fc10854cdc60894a39fd346ce72e6ebd",
+    "artifact/code/participation_control/run_durac_domain_cap_2x2.py": "8d3a51be3c8828aad4141770a90f3ce23b23209d06091db5a5ba3bc5c73cd156",
+    "artifact/code/participation_control/run_dual_role.py": "97a382dc86ca8206825864b68e17da407a38453d9ea3f2f3116bc5344e269f48",
+    "artifact/code/participation_control/run_holdout_authorization.py": "f78912ef6dd5a733d74088327241f3cacb52c452b5ce08dc38582fabf6dd1288",
+    "artifact/code/participation_control/run_conditional_trust.py": "c36fe3ddb7e34884ab948954d2a99a355ac02b0efe568a9ed9ebab6b9520bda0"
+  },
+  "seeds": [
+    260825,
+    260826,
+    260827,
+    260828,
+    260829,
+    260830,
+    260831,
+    260832,
+    260833,
+    260834,
+    260835,
+    260836,
+    260837,
+    260838,
+    260839,
+    260840,
+    260841,
+    260842,
+    260843,
+    260844
+  ],
+  "stage": "source-baselines",
+  "wrapper_sha256": "79302913ac7d2ccdbe5e21a8c791f50eca47460cf3d6fbafc56fe875baec2b84"
+}

@@ -1,0 +1,13 @@
+{
+  "coverage": 1.0,
+  "delay": 10,
+  "label_error": 0.0,
+  "patterns": [
+    "FS",
+    "FFS",
+    "FFSSS"
+  ],
+  "raw_rows": 9000,
+  "runner_sha256": "f6db857cec9f49237daf452f21f0f2244756f6a53bb803c20dbf1303a8c2befe",
+  "current_runner_sha256": "21defce07193bed8d21ebce343e0dcaa24bd08981c77ecc467aec69efb61b9e5"
+}

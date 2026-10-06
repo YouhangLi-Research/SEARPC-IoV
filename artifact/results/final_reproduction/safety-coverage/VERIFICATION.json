@@ -1,0 +1,53 @@
+{
+  "mode": "bundled per-seed authorization-count reporting",
+  "outputs": {
+    "pareto_frontier.csv": "f3f833f6bc90de4dc71846bd13467c15ba7484bf139b7e48cb0e14bebc5759c8",
+    "pareto_matched_coverage.csv": "fe863acca95486d51519f0f5e6f6093cf3089a569a72cc35887c3d3d852fe740",
+    "pareto_primary_point_seed20.csv": "9fb781f3fdfcb522faaef7b8e6bed589630e13ceb59c56dbded83613b5b868e4",
+    "pareto_risk_budget.csv": "4d73f07adb6d7212c7f186a510b9bcc48b132ff0ff8c3e170266fac36f1833d8",
+    "pareto_summary.csv": "0845e3a69daf677527a2adfe7734302eb043687b72e7a3965859b763c724d985"
+  },
+  "raw_rows": 21840,
+  "raw_sha256": "ae401d6921a887ac969d0fe0c69535cc96690ad6778715d16f2b9730d6ede02d",
+  "reference_comparisons": {
+    "pareto_frontier.csv": {
+      "pass": true,
+      "rows": 234
+    },
+    "pareto_matched_coverage.csv": {
+      "pass": true,
+      "rows": 48
+    },
+    "pareto_primary_point_seed20.csv": {
+      "pass": true,
+      "rows": 12
+    },
+    "pareto_risk_budget.csv": {
+      "pass": true,
+      "rows": 48
+    },
+    "pareto_summary.csv": {
+      "pass": true,
+      "rows": 1092
+    }
+  },
+  "replays_trajectory_baseline": false,
+  "seed_count": 20,
+  "validation": {
+    "attack_set_exact": true,
+    "counts_nonnegative": true,
+    "coverage_ratio_exact": true,
+    "duplicate_primary_keys_zero": true,
+    "expected_rows": 21840,
+    "method_set_exact": true,
+    "overall_complete": true,
+    "overlap_set_exact": true,
+    "raw_rows": 21840,
+    "raw_rows_21840": true,
+    "required_columns_present": true,
+    "risk_ratio_exact": true,
+    "seed_set_exact": true,
+    "threshold_grid_exact": true,
+    "trusted_counts_bounded": true
+  }
+}

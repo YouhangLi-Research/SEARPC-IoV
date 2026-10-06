@@ -1,0 +1,18 @@
+{
+  "failure_triggers": [
+    2,
+    3,
+    4
+  ],
+  "recovery_successes": [
+    3,
+    5,
+    10
+  ],
+  "risk_stream": "artifact/results/participation_control/rq4_protocol_closed/RQ4_risk_stream.csv",
+  "risk_stream_sha256": "2722e212af092bd05b2f1b04183a9c2b8d25636332d8948191fd5c3ee7819324",
+  "rows": 54000,
+  "rq4_runner_sha256": "79a6bea81c8c7c6bbdd84e10ccc4b343ce579b9665d322289772cb6336bfef38",
+  "runner_sha256": "7d43e9701dc19d8530075f63948844a4edc99d573657ee4128e7e2915e424784",
+  "current_runner_sha256": "939bb7ee52f9562226309b76baa09cdcf7ec6b729f16141b94e81c5b9ddfa306"
+}

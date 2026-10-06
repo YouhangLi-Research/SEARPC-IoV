@@ -1,0 +1,4 @@
+Method,RW exposure ↓,Latent post-control ↓,Standard-path handoff ↓,Resampling: warning + content,Wire (logical msg/block) ↓,Δ exposure vs w/o same-k [95% CI]
+Static k=13,23.088%,23.417%,23.417%,0.00% + 0.00%,622.43,—
+SEARPC w/o Same-k Reconfiguration,8.285%,8.550%,8.550%,0.00% + 0.00%,407.22,Reference
+SEARPC,5.732%,5.917%,5.917%,9.15% + 0.00%,376.68,"−2.553 pp [−3.137, −1.960]"

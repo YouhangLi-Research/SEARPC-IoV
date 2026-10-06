@@ -1,0 +1,45 @@
+{
+  "attack_stratified": true,
+  "bootstrap_replicates": 2000,
+  "bootstrap_seed": 260826,
+  "calibrations": {
+    "durac_ensemble": "isotonic",
+    "random_forest": "isotonic",
+    "single_hgbdt": "isotonic"
+  },
+  "cluster_unit": "official receiver/source JSON file",
+  "mode": "bundled calibrated predictions",
+  "outputs": {
+    "clusters": {
+      "path": "artifact/results/final_reproduction/message-evidence/SEARPC_clustered_cluster_accounting.csv",
+      "sha256": "0119ed4806af277cfc334ba4d3b7646e3d895b953c19193d437a2c7d2e9f9348"
+    },
+    "differences": {
+      "path": "artifact/results/final_reproduction/message-evidence/SEARPC_clustered_paired_differences.csv",
+      "sha256": "19f011b1dd107ab2246816aa02c3918c62cd5ca63f7eb70d846089cac82afc61"
+    },
+    "intervals": {
+      "path": "artifact/results/final_reproduction/message-evidence/SEARPC_clustered_method_intervals.csv",
+      "sha256": "3d97a7b60ca2f79e95621b1f9669972c7ff3f8e1cfa612fae096b1113d442858"
+    },
+    "predictions": {
+      "path": "artifact/results/final_reproduction/message-evidence/SEARPC_clustered_receiver_predictions.csv.gz",
+      "sha256": "04d9c0bcb49b273a12a99e1da67c960289183493be7356046a91c2aabc0435cb"
+    },
+    "verification": {
+      "path": "artifact/results/final_reproduction/message-evidence/SEARPC_clustered_point_verification.csv",
+      "sha256": "f2a4cd31a59f8a67c32fa660fe3c0e819ab6ffa643809c5c4fa28883c1cf73c3"
+    }
+  },
+  "paired_across_methods": true,
+  "point_metric_reproduction_pass": true,
+  "prediction_sha256": "04d9c0bcb49b273a12a99e1da67c960289183493be7356046a91c2aabc0435cb",
+  "protocol_sha256": "45ead07f5951ab08821275a33937c4e591d72d936a884491e293e2be55d7326f",
+  "runner_sha256": "033bc5b58e8cb30c028b5583946b4c4ae10208572d6cccbdec72257103c67e4e",
+  "thresholds": {
+    "durac_ensemble": 0.5333333333333333,
+    "random_forest": 0.5229357798165137,
+    "single_hgbdt": 0.47368421052631576
+  },
+  "current_runner_sha256": "2b7c84034174fcde45eb24ad0a3b7d0e31c11cec0e636384a8351a35282eae39"
+}

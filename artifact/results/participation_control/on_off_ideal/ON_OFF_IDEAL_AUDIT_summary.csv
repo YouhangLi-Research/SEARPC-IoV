@@ -1,0 +1,4 @@
+pattern,pattern_string,launches,coverage,label_error,delay,ever_warning_excluded_fraction,ever_quarantined_fraction,mean_warning_excluded_on_failure,mean_quarantined_malicious,false_quarantine_entities,final_Q_min,final_Q_max,illegal_acceptance
+F-S-F-S,FS,5,1.0,0.0,10,1.0,0.0,11.8,0,0,27,27,0
+2F-1S,FFS,5,1.0,0.0,10,1.0,0.0,5.91,0,0,27,27,0
+burst-2F-3S,FFSSS,5,1.0,0.0,10,1.0,0.0,11.8,0,0,27,27,0

@@ -1,0 +1,8 @@
+{
+  "bundle": "experiments/SEARPC_EXPERIMENTS_CURRENT/data/derived/rq2_trace_bundle_exact.npz",
+  "bundle_sha256": "09d7fe87141f7467057e1176a09efff0a93167df5aa97b8d5715486c8cb79cc0",
+  "output_sha256": "2722e212af092bd05b2f1b04183a9c2b8d25636332d8948191fd5c3ee7819324",
+  "rows": 6000,
+  "runner_sha256": "30003774494dce105f9edc31fa6417ee9ae0e684291c12acd319d6066e4a742d",
+  "current_runner_sha256": "ad3a9ced73a790b5672312b629fb4337c7469fe48507a00c323bea8c8f7324e3"
+}

@@ -1,0 +1,9 @@
+partition,attack,messages,attack_messages,benign_messages,source,attack_rate_pct,benign_rate_pct
+Highway Train,Data Replay,37701,6541,31160,Phase13 frozen dataset audit,17.34967242248216,82.65032757751784
+Highway Train,Time Delay,37701,7645,30056,Phase13 frozen dataset audit,20.277976711493064,79.72202328850693
+Highway Validation,Data Replay,17977,3212,14765,Phase13 frozen dataset audit,17.867274851198754,82.13272514880124
+Highway Validation,Time Delay,17977,3532,14445,Phase13 frozen dataset audit,19.647327140234744,80.35267285976525
+Urban Test,Data Replay,406801,74661,332140,Phase21 frozen receiver-level predictions,18.353199721731265,81.64680027826873
+Urban Test,Time Delay,406801,64135,342666,Phase21 frozen receiver-level predictions,15.765693791313199,84.2343062086868
+Urban Holdout,Data Replay,291050,56688,234362,Phase13 frozen dataset audit,19.477065796254937,80.52293420374507
+Urban Holdout,Time Delay,291050,54879,236171,Phase13 frozen dataset audit,18.855523105995534,81.14447689400447

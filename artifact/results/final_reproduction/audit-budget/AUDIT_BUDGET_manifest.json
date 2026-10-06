@@ -1,0 +1,15 @@
+{
+  "budget_definition": "ceil(0.50*k), k=13, frozen before outcomes",
+  "equal_budget_per_block": 7,
+  "regimes": [
+    "shared_exogenous",
+    "equal_budget",
+    "adaptive"
+  ],
+  "risk_stream": "artifact/results/participation_control/rq4_protocol_closed/RQ4_risk_stream.csv",
+  "risk_stream_sha256": "2722e212af092bd05b2f1b04183a9c2b8d25636332d8948191fd5c3ee7819324",
+  "rows": 90000,
+  "rq4_runner_sha256": "79a6bea81c8c7c6bbdd84e10ccc4b343ce579b9665d322289772cb6336bfef38",
+  "runner_sha256": "f67a9a56c61d2e2dce3ae51660bec8632da830a36794c77a1bbac9f8310b9522",
+  "current_runner_sha256": "b79443d47c49b5c509765f7f8e0daed5fb7dda521a1da6b47bd90999bc5fed0e"
+}

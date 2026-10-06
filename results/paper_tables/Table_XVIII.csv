@@ -1,0 +1,4 @@
+Method,DR n=7 share ↓,DR 1→7 Δ ↓,TD n=7 share ↓,TD 1→7 Δ ↓,Bounded outer influence
+BRS [9],62.81%,0.579,62.94%,0.579,No
+TWSL [3],72.25%,0.647,72.41%,0.647,No
+SEARPC,—,0.019,—,0.019,Yes

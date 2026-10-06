@@ -1,0 +1,113 @@
+{
+  "release": "SEARPC",
+  "validation_environment": {
+    "python": "3.12.14",
+    "platform": "Linux x86_64",
+    "dependencies": "requirements-verified.txt"
+  },
+  "checks": {
+    "message-evidence": {
+      "status": "PASS"
+    },
+    "safety-coverage": {
+      "status": "PASS"
+    },
+    "content-risk": {
+      "status": "PASS"
+    },
+    "canonical": {
+      "status": "PASS"
+    },
+    "shared7": {
+      "status": "PASS"
+    },
+    "audit-budget": {
+      "status": "PASS"
+    },
+    "adjudication": {
+      "status": "PASS"
+    },
+    "vehicle-smoke": {
+      "status": "PASS"
+    }
+  },
+  "complete_vehicle_grid": {
+    "status": "PASS",
+    "paired_seeds": 20,
+    "role_cells": 160,
+    "domain_cells": 320,
+    "source_baseline_cells": 320,
+    "events_per_attack_trace": 36382,
+    "scientific_sources_sha256": {
+      "artifact/baselines/TWSL_VeReMi_Adapted_Baseline/src/twsl_baseline/core.py": "c39ceb7ac2117d6163e8d548b73865d53c23b1ef28d14caa6238b8835b0ed2ce",
+      "artifact/code/participation_control/adjudication.py": "9e6af7fad42dacc2f2222fc868d30f7720f5e3a5650651b2a8ad0433edb502db",
+      "artifact/code/participation_control/authority.py": "a16749764f9d08d492dbe864ed99e5ff95e147a3b74f091cff51059f8339fc02",
+      "artifact/code/participation_control/identity_multiplicity_external.py": "f4a9369ec9e5bbbb6a64ca4eea471e35fc10854cdc60894a39fd346ce72e6ebd",
+      "artifact/code/participation_control/run_durac_domain_cap_2x2.py": "8d3a51be3c8828aad4141770a90f3ce23b23209d06091db5a5ba3bc5c73cd156",
+      "artifact/code/participation_control/run_dual_role.py": "97a382dc86ca8206825864b68e17da407a38453d9ea3f2f3116bc5344e269f48",
+      "artifact/code/participation_control/run_holdout_authorization.py": "f78912ef6dd5a733d74088327241f3cacb52c452b5ce08dc38582fabf6dd1288",
+      "artifact/code/participation_control/run_conditional_trust.py": "c36fe3ddb7e34884ab948954d2a99a355ac02b0efe568a9ed9ebab6b9520bda0"
+    }
+  },
+  "brs_authorization": {
+    "status": "PASS",
+    "cells": 120,
+    "rows": 10920,
+    "paired_seeds": 20,
+    "thresholds": 91
+  },
+  "searpc_threshold_replay": {
+    "status": "PASS",
+    "rows": 10920,
+    "paired_seeds": 20,
+    "thresholds": 91
+  },
+  "message_evidence": {
+    "status": "PASS",
+    "predictions": 813602,
+    "clusters": 2038,
+    "bootstrap_replicates": 2000
+  },
+  "fsm_sensitivity": {
+    "status": "PASS",
+    "parameter_cells": 9,
+    "paired_traces_per_cell": 10,
+    "block_rows": 54000
+  },
+  "process_functional_checks": {
+    "status": "PASS",
+    "report": "results/process_checks/SEARPC_process_validity_checks.csv"
+  },
+  "complete_process_measurements": {
+    "status": "PASS",
+    "measured_blocks": 30000,
+    "launch_cells": 60,
+    "blocks_per_cell": 500,
+    "final_quorum": [
+      11,
+      27
+    ],
+    "source": "artifact/results/final_reproduction/system-full/"
+  },
+  "manuscript_correspondence": {
+    "status": "PASS",
+    "tables": 11,
+    "table_cells": 227,
+    "experimental_panels": 28,
+    "report": "results/paper_tables/PAPER_CORRESPONDENCE.json"
+  },
+  "framework_artwork": {
+    "status": "PASS",
+    "figures": [
+      1,
+      2,
+      3
+    ]
+  },
+  "communication_bytes_per_KB": 1000,
+  "release_integrity": {
+    "status": "PASS",
+    "manifest": "MANIFEST.sha256"
+  },
+  "status": "PASS"
+}

@@ -1,0 +1,12 @@
+{
+  "cells": 320,
+  "mode": "full",
+  "reference_comparison": {
+    "cells": 32,
+    "maximum_absolute_error": 0.0,
+    "pass": true,
+    "reference": "figures/experimental/fig5_to_fig11/data/IDENTITY_MULTIPLICITY_EXTERNAL_summary.csv",
+    "values_checked": 864
+  },
+  "rows": 640
+}

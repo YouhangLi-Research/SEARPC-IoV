@@ -1,0 +1,12 @@
+* text=auto eol=lf
+*.csv binary
+*.docx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.gz binary
+*.zip binary
+*.npz binary
+artifact/results/final_reproduction/audit-budget/AUDIT_BUDGET_block_level.csv filter=lfs diff=lfs merge=lfs -text
+artifact/results/participation_control/fsm_sensitivity/FSM_SENSITIVITY_block_level.csv filter=lfs diff=lfs merge=lfs -text

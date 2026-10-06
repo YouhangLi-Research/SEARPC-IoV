@@ -1,0 +1,181 @@
+{
+  "checks": [
+    {
+      "attack": "dataReplay",
+      "count_differences": {
+        "benign_total": 0,
+        "benign_trusted": 0,
+        "malicious_total": 0,
+        "malicious_trusted": 0
+      },
+      "method": "SEARPC",
+      "overlap": 0.5,
+      "pass": true,
+      "seed": 260825,
+      "threshold": 0.05
+    },
+    {
+      "attack": "dataReplay",
+      "count_differences": {
+        "benign_total": 0,
+        "benign_trusted": 0,
+        "malicious_total": 0,
+        "malicious_trusted": 0
+      },
+      "method": "SEARPC",
+      "overlap": 0.5,
+      "pass": true,
+      "seed": 260825,
+      "threshold": 0.5
+    },
+    {
+      "attack": "dataReplay",
+      "count_differences": {
+        "benign_total": 0,
+        "benign_trusted": 0,
+        "malicious_total": 0,
+        "malicious_trusted": 0
+      },
+      "method": "SEARPC",
+      "overlap": 0.5,
+      "pass": true,
+      "seed": 260825,
+      "threshold": 0.95
+    },
+    {
+      "attack": "dataReplay",
+      "count_differences": {
+        "benign_total": 0,
+        "benign_trusted": 0,
+        "malicious_total": 0,
+        "malicious_trusted": 0
+      },
+      "method": "TWSL",
+      "overlap": 0.5,
+      "pass": true,
+      "seed": 260825,
+      "threshold": 0.05
+    },
+    {
+      "attack": "dataReplay",
+      "count_differences": {
+        "benign_total": 0,
+        "benign_trusted": 0,
+        "malicious_total": 0,
+        "malicious_trusted": 0
+      },
+      "method": "TWSL",
+      "overlap": 0.5,
+      "pass": true,
+      "seed": 260825,
+      "threshold": 0.5
+    },
+    {
+      "attack": "dataReplay",
+      "count_differences": {
+        "benign_total": 0,
+        "benign_trusted": 0,
+        "malicious_total": 0,
+        "malicious_trusted": 0
+      },
+      "method": "TWSL",
+      "overlap": 0.5,
+      "pass": true,
+      "seed": 260825,
+      "threshold": 0.95
+    },
+    {
+      "attack": "timeDelayAttack",
+      "count_differences": {
+        "benign_total": 0,
+        "benign_trusted": 0,
+        "malicious_total": 0,
+        "malicious_trusted": 0
+      },
+      "method": "SEARPC",
+      "overlap": 0.5,
+      "pass": true,
+      "seed": 260825,
+      "threshold": 0.05
+    },
+    {
+      "attack": "timeDelayAttack",
+      "count_differences": {
+        "benign_total": 0,
+        "benign_trusted": 0,
+        "malicious_total": 0,
+        "malicious_trusted": 0
+      },
+      "method": "SEARPC",
+      "overlap": 0.5,
+      "pass": true,
+      "seed": 260825,
+      "threshold": 0.5
+    },
+    {
+      "attack": "timeDelayAttack",
+      "count_differences": {
+        "benign_total": 0,
+        "benign_trusted": 0,
+        "malicious_total": 0,
+        "malicious_trusted": 0
+      },
+      "method": "SEARPC",
+      "overlap": 0.5,
+      "pass": true,
+      "seed": 260825,
+      "threshold": 0.95
+    },
+    {
+      "attack": "timeDelayAttack",
+      "count_differences": {
+        "benign_total": 0,
+        "benign_trusted": 0,
+        "malicious_total": 0,
+        "malicious_trusted": 0
+      },
+      "method": "TWSL",
+      "overlap": 0.5,
+      "pass": true,
+      "seed": 260825,
+      "threshold": 0.05
+    },
+    {
+      "attack": "timeDelayAttack",
+      "count_differences": {
+        "benign_total": 0,
+        "benign_trusted": 0,
+        "malicious_total": 0,
+        "malicious_trusted": 0
+      },
+      "method": "TWSL",
+      "overlap": 0.5,
+      "pass": true,
+      "seed": 260825,
+      "threshold": 0.5
+    },
+    {
+      "attack": "timeDelayAttack",
+      "count_differences": {
+        "benign_total": 0,
+        "benign_trusted": 0,
+        "malicious_total": 0,
+        "malicious_trusted": 0
+      },
+      "method": "TWSL",
+      "overlap": 0.5,
+      "pass": true,
+      "seed": 260825,
+      "threshold": 0.95
+    }
+  ],
+  "fixed_overlap": 0.5,
+  "fixed_seed": 260825,
+  "overall_pass": true,
+  "scope": "full threshold-specific replay versus frozen multi-threshold readout",
+  "thresholds": [
+    0.05,
+    0.5,
+    0.95
+  ]
+}

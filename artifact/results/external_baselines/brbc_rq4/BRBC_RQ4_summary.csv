@@ -1,0 +1,3 @@
+method,blocks,risk_weighted_exposure,unweighted_exceedance_rate,actual_handoff_rate,direct_standard_rate,expensive_full_path_rate,mean_active_pool,mean_selected_compromised_fraction,mean_audits,mean_total_wire_messages,final_Q_min,final_Q_max,final_legal_commit_rate,final_illegal_acceptance
+brbc_eligibility,6000,0.19857363730110067,0.19966666666666666,0.19966666666666666,0,0.19966666666666666,38.81883333333333,0.19491025641025642,7,581.267,27,27,1,0
+searpc_core_shared_audits,6000,0.08024999118835462,0.08216666666666667,0.08216666666666667,0.00016666666666666666,0.08233333333333333,29.1675,0.06452564102564103,7,393.60966666666667,27,27,1,0

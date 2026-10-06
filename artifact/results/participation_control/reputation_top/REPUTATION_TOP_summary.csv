@@ -1,0 +1,4 @@
+method,blocks,risk_weighted_exposure,unweighted_exceedance_rate,actual_handoff_rate,mean_active_pool,mean_audits,mean_wire_messages,final_Q_min,final_Q_max,illegal_acceptance,same_active_pool_source,same_audit_schedule_source,look_ahead,tie_break,adjacent_committee_repetition,median_longest_unchanged_run,mean_unique_selected_validators
+feedback_fixed,6000,0.08284987146494417,0.0855,0.0855,31.657,11.255,407.2245,27,27,0,feedback_fixed,feedback_fixed,0,validator_id,,,
+reputation_top_same_pool,6000,0.08398204051209907,0.087,0.087,31.657,11.255,409.623,27,27,0,feedback_fixed,feedback_fixed,0,validator_id,0.3253756260434057,10.0,39
+searpc,6000,0.05510432131962564,0.05733333333333333,0.05733333333333333,31.886,17.789666666666665,375.25533333333334,27,27,0,feedback_fixed,feedback_fixed,0,validator_id,,,

@@ -1,0 +1,50 @@
+{
+  "all_validity_checks_pass": true,
+  "bft_locking_and_view_change": false,
+  "current_runner_sha256": "2e933ab3f3eb5ec8f785dbf8f33b062e44b3ef105f0b852e1b5f1c86ae485e20",
+  "interpretation": "same-host fixed-Q integration cost; not a production BFT/WAN latency claim",
+  "measured_blocks_per_cell": 500,
+  "measurement_source": "artifact/results/final_reproduction/system-full/MEASUREMENT_SOURCE.txt",
+  "outputs": {
+    "blocks": {
+      "path": "artifact/results/final_reproduction/system-full/SEARPC_process_block_level.csv",
+      "sha256": "40aecf0d405abc91957b677946883cb76418a17af23735e1162435829321d503"
+    },
+    "launches": {
+      "path": "artifact/results/final_reproduction/system-full/SEARPC_process_per_launch.csv",
+      "sha256": "9caadde35dd2644531d35d91b195c594108f35f2951c6c2eedf3928aa45842b0"
+    },
+    "pooled": {
+      "path": "artifact/results/final_reproduction/system-full/SEARPC_process_pooled.csv",
+      "sha256": "824452000e2555f82258a56893495c53a1e5350120863869c47449a108b3fe6e"
+    },
+    "validity": {
+      "path": "artifact/results/final_reproduction/system-full/SEARPC_process_validity_checks.csv",
+      "sha256": "eaf4ce2934ddc735ec858fdbfa34eb375815b92fbfc8f45ccb4d977138a7f65f"
+    }
+  },
+  "payload_bytes": 16384,
+  "persistent_connections": true,
+  "process_counts": [
+    16,
+    40
+  ],
+  "protocol_sha256": "1288c3b12ef860da373ca30b8de9ead42cedd2be6bc0c87fb1be273b3e31fea2",
+  "protocol_status": "fixed-quorum certificate integration prototype",
+  "repeats": 5,
+  "reused_thread_pool": true,
+  "runner_sha256": "ba7263fa707baa04776e378a904f4bf1db7b6787e2a21d12d698b307c69fe34c",
+  "runtime_environment": {
+    "cpu_count": 9,
+    "machine": "x86_64",
+    "mem_total_bytes": 10451460096,
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+    "processor": "x86_64",
+    "python": "3.12.14"
+  },
+  "selector": "deterministic synthetic warning schedule",
+  "timing_scope": "execution after candidate selection and local policy installation",
+  "scoped_evidence_protocol_sha256": "e2c6433a5e662a89c345cb8e3aa244790b30e7fd7499d4e74201dd32f47ec9c7",
+  "validation_policy": "trusted local candidate set and quorum; network requests cannot lower either",
+  "warmup_blocks_per_cell": 5
+}

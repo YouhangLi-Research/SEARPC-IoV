@@ -1,0 +1,9 @@
+baseline,treated,metric,n_traces,searpc_minus_yadav_mean,ci95_low,ci95_high,exact_sign_flip_p,searpc_lower_count,bootstrap_seed,bootstrap_draws
+yadav_direct_history_shared_audits,searpc_shared_audits,risk_weighted_exposure,10,-0.10796145484059444,-0.11741881707010585,-0.09891123459264532,0.001953125,10,310826,20000
+yadav_direct_history_shared_audits,searpc_shared_audits,unweighted_exceedance_rate,10,-0.1035,-0.11216666666666666,-0.0945,0.001953125,10,310827,20000
+yadav_direct_history_shared_audits,searpc_shared_audits,actual_handoff_rate,10,-0.1035,-0.11233333333333334,-0.09466666666666666,0.001953125,10,310828,20000
+yadav_direct_history_shared_audits,searpc_shared_audits,direct_standard_rate,10,0.0001666666666666667,0.0,0.0005,1.0,0,310829,20000
+yadav_direct_history_shared_audits,searpc_shared_audits,expensive_full_path_rate,10,-0.10333333333333333,-0.11216666666666666,-0.0945,0.001953125,10,310830,20000
+yadav_direct_history_shared_audits,searpc_shared_audits,mean_active_pool,10,-10.8325,-11.032166666666667,-10.658829166666667,0.001953125,10,310831,20000
+yadav_direct_history_shared_audits,searpc_shared_audits,mean_selected_compromised_fraction,10,-0.0748974358974359,-0.08097435897435898,-0.06869198717948721,0.001953125,10,310832,20000
+yadav_direct_history_shared_audits,searpc_shared_audits,mean_total_wire_messages,10,-165.27133333333333,-179.39583333333331,-151.37199999999999,0.001953125,10,310833,20000

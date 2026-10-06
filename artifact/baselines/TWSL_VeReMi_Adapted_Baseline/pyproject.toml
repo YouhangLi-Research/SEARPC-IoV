@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "twsl-veremi-adapted-baseline"
+dynamic = ["version"]
+description = "Audited independent TWSL implementation with a declared VeReMi adaptation profile"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Independent research reproduction"}]
+dependencies = []
+
+[project.scripts]
+twsl-baseline = "twsl_baseline.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

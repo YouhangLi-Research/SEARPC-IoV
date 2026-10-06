@@ -1,0 +1,48 @@
+{
+  "all_validity_checks_pass": true,
+  "bft_locking_and_view_change": false,
+  "interpretation": "same-host fixed-Q integration cost; not a production BFT/WAN latency claim",
+  "measured_blocks_per_cell": 2,
+  "outputs": {
+    "blocks": {
+      "path": "results/process_checks/SEARPC_process_block_level.csv",
+      "sha256": "e2c492a1408ad2b3e3bf763e896ab9524120729f6659547fc5f864be7e393b08"
+    },
+    "launches": {
+      "path": "results/process_checks/SEARPC_process_per_launch.csv",
+      "sha256": "ba331b8b43e58f24d5e13ca06181c2d823ddcb258ed827a3ae80faeab86cf4c2"
+    },
+    "pooled": {
+      "path": "results/process_checks/SEARPC_process_pooled.csv",
+      "sha256": "ea01c40cfdaeaef5b37ca9ce4f262cc607b7fe5afe1fe46db84075a911230998"
+    },
+    "validity": {
+      "path": "results/process_checks/SEARPC_process_validity_checks.csv",
+      "sha256": "e9ec9707d29e219f674dadaa029ed0785b913212598f45eeecabb06e195cecb7"
+    }
+  },
+  "payload_bytes": 16384,
+  "persistent_connections": true,
+  "process_counts": [
+    16
+  ],
+  "protocol_sha256": "1288c3b12ef860da373ca30b8de9ead42cedd2be6bc0c87fb1be273b3e31fea2",
+  "protocol_status": "fixed-quorum certificate integration prototype",
+  "repeats": 1,
+  "reused_thread_pool": true,
+  "runner_sha256": "3a8385d88904626bc3923662b2bd85aebb65cbafb4062b41aede0b0d8f018f3d",
+  "runtime_environment": {
+    "cpu_count": 9,
+    "machine": "x86_64",
+    "mem_total_bytes": 10451460096,
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+    "processor": "x86_64",
+    "python": "3.12.14"
+  },
+  "selector": "deterministic synthetic warning schedule",
+  "timing_scope": "execution after candidate selection and local policy installation",
+  "scoped_evidence_protocol_sha256": "e2c6433a5e662a89c345cb8e3aa244790b30e7fd7499d4e74201dd32f47ec9c7",
+  "validation_policy": "trusted local candidate set and quorum; network requests cannot lower either",
+  "warmup_blocks_per_cell": 1,
+  "current_runner_sha256": "2e933ab3f3eb5ec8f785dbf8f33b062e44b3ef105f0b852e1b5f1c86ae485e20"
+}

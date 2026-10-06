@@ -1,0 +1,44 @@
+{
+  "latency_reduction_percent": 38.97185001875992,
+  "wire_reduction_percent": 28.645120003807172,
+  "full_fetch_p95_ms": 115.61789054999997,
+  "searpc_fetch_p95_ms": 70.55945964999998,
+  "fetch_latency_delta_ms": 45.05843089999999,
+  "full_fetch_wire_kb": 1428.88175,
+  "searpc_fetch_wire_kb": 1019.576858,
+  "fetch_wire_delta_kb": 409.304892,
+  "vs_k_latency_percent": 21.437127462048565,
+  "vs_k_wire_percent": 0.07795801438438957,
+  "table": {
+    "full_set": {
+      "cached": {
+        "p95": 106.24095559999995,
+        "wire": 1428.88175
+      },
+      "fetch": {
+        "p95": 115.61789054999997,
+        "wire": 1428.88175
+      }
+    },
+    "fixed_k13": {
+      "cached": {
+        "p95": 79.09675284999996,
+        "wire": 1405.296368
+      },
+      "fetch": {
+        "p95": 89.81272879999997,
+        "wire": 1020.37232
+      }
+    },
+    "searpc_conditioned": {
+      "cached": {
+        "p95": 85.30440044999995,
+        "wire": 1405.2949820000001
+      },
+      "fetch": {
+        "p95": 70.55945964999998,
+        "wire": 1019.576858
+      }
+    }
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "framework": [
+    {
+      "figure": 1,
+      "vector": "figures/framework/SEARPC_Figure1_Framework.svg",
+      "pdf": "figures/framework/SEARPC_Figure1_Framework.pdf",
+      "image": "figures/framework/SEARPC_Figure1_Framework.png",
+      "svg_sha256": "bdeb1f8c36e11805ae2d891e900f7a72d969ff5b56b8cc1b97f98f5d59e47f02",
+      "png_sha256": "917f73c6002f585ecd49a8cd6435fdba8aad4129267be25a330659521fac5c2e",
+      "pdf_sha256": "51ff02eafe35755cc5ad7c1736ee19e080381c5793c6abd5e46c2eba33e54cbc",
+      "source": "supplied final PDF export, 2026-10-06",
+      "embedded_crop_points": [
+        14.0,
+        52.69000244140625,
+        827.8900146484375,
+        580.0
+      ],
+      "embedded_aspect_ratio": 1.5434754099423262
+    },
+    {
+      "figure": 2,
+      "vector": "figures/framework/SEARPC_Figure2_Framework.svg",
+      "pdf": "figures/framework/SEARPC_Figure2_Framework.pdf",
+      "image": "figures/framework/SEARPC_Figure2_Framework.png",
+      "svg_sha256": "32caa5b0b923bfc1393f52f58cac7e8d55dc7b9e1b7de760248d0fb505aa00a4",
+      "png_sha256": "d1e8ae59f7bb31a90d5fa16bfc0b7ba7589ac897b499e510398790faf1450444",
+      "pdf_sha256": "2bccb71d77f7ebc4cf07572a54f8e575cf2646f7fcb9fdfae8f2a7fc4828135e",
+      "source": "supplied final PDF export, 2026-10-06",
+      "embedded_crop_points": [
+        23.077999114990234,
+        27.76397705078125,
+        803.3699951171875,
+        556.7559814453125
+      ],
+      "embedded_aspect_ratio": 1.475054423356165
+    },
+    {
+      "figure": 3,
+      "vector": "figures/framework/SEARPC_Figure3_Framework.svg",
+      "pdf": "figures/framework/SEARPC_Figure3_Framework.pdf",
+      "image": "figures/framework/SEARPC_Figure3_Framework.png",
+      "svg_sha256": "d4cd30e0f5fd6843f30cb67e7845baa84893c33370dcdd775a159d8dab3c8cba",
+      "png_sha256": "5d3027e5824a98fe81fc685f3b6dd4ed1882fb0364e28abcd233d69373e93ed2",
+      "pdf_sha256": "b7c386fe38a6b82e2201fb6c2274546affae29f6d0db3ef8002eed3eded1e8dc",
+      "source": "supplied final PDF export, 2026-10-06",
+      "embedded_crop_points": [
+        42.1609992980957,
+        185.9219970703125,
+        1007.75,
+        689.9840087890625
+      ],
+      "embedded_aspect_ratio": 1.9156154962153171
+    }
+  ],
+  "experimental": [
+    {
+      "figure": 4,
+      "panel": "a",
+      "image": "figures/experimental/fig4/outputs/fig4_a_data_distribution.png",
+      "vector": "figures/experimental/fig4/outputs/fig4_a_data_distribution.pdf",
+      "word_media": "word/media/image4.png",
+      "sha256": "d3c7d3fe130b8232b0bd7621ed41bea81fc2547e22632c1b044423dbe9c986dd"
+    },
+    {
+      "figure": 4,
+      "panel": "b",
+      "image": "figures/experimental/fig4/outputs/fig4_b_distribution_heatmap.png",
+      "vector": "figures/experimental/fig4/outputs/fig4_b_distribution_heatmap.pdf",
+      "word_media": "word/media/image5.png",
+      "sha256": "d7a05aac06f2916ba99ce74e572723a07e4ca306609be6d1248b8a32c3d049bd"
+    },
+    {
+      "figure": 4,
+      "panel": "c",
+      "image": "figures/experimental/fig4/outputs/fig4_c_attack_rate_grouped.png",
+      "vector": "figures/experimental/fig4/outputs/fig4_c_attack_rate_grouped.pdf",
+      "word_media": "word/media/image6.png",
+      "sha256": "0a1960466aff510de1032bb97f9223115cab277d0f27d93e002aae3558db17dd"
+    },
+    {
+      "figure": 5,
+      "panel": "a",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig5/fig5_a.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig5/fig5_a.pdf",
+      "word_media": "word/media/image7.png",
+      "sha256": "b105ee2e189df40914a3f83b7f99961cb3cdf9075334a910ce738b608b9d78b0"
+    },
+    {
+      "figure": 5,
+      "panel": "b",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig5/fig5_b.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig5/fig5_b.pdf",
+      "word_media": "word/media/image8.png",
+      "sha256": "afaa26c4015a0db675b3dbcb9ceb21656a7d423949d98400a45d23afb07522a2"
+    },
+    {
+      "figure": 5,
+      "panel": "c",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig5/fig5_c.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig5/fig5_c.pdf",
+      "word_media": "word/media/image9.png",
+      "sha256": "54d79aa1a4fba13f191860fd8631eb9de0de09b8c76759ea3a7562bf7dd209b2"
+    },
+    {
+      "figure": 5,
+      "panel": "d",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig5/fig5_d.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig5/fig5_d.pdf",
+      "word_media": "word/media/image10.png",
+      "sha256": "f102980e0e5f197c886cd378bc47a1b6c411115e71b8ac1e32e5f286d63b781c"
+    },
+    {
+      "figure": 5,
+      "panel": "e",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig5/fig5_e.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig5/fig5_e.pdf",
+      "word_media": "word/media/image11.png",
+      "sha256": "933964105d7ca1ee34a9d353172e2002328f1458b925e3fab98aaf1ec0becdcc"
+    },
+    {
+      "figure": 5,
+      "panel": "f",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig5/fig5_f.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig5/fig5_f.pdf",
+      "word_media": "word/media/image12.png",
+      "sha256": "d03d7acbfb8532b04f6920f60061ced282c06f1382d774414c9d9d1423041b43"
+    },
+    {
+      "figure": 6,
+      "panel": "a",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig6/fig6_a.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig6/fig6_a.pdf",
+      "word_media": "word/media/image13.png",
+      "sha256": "47827db1a85e6ec9c8dbf00c4a7c5b6dab2b8e4e60c808258b3c491595b25794"
+    },
+    {
+      "figure": 6,
+      "panel": "b",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig6/fig6_b.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig6/fig6_b.pdf",
+      "word_media": "word/media/image14.png",
+      "sha256": "912294334e859f40762fdf1bc06b9f81dc9d9fc871d44d70610fee18136e652d"
+    },
+    {
+      "figure": 6,
+      "panel": "c",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig6/fig6_c.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig6/fig6_c.pdf",
+      "word_media": "word/media/image15.png",
+      "sha256": "5a42cf05b1678bb8252221a52ebc42ed6ec2e3aab26b4c733b0e6c7df77cd54e"
+    },
+    {
+      "figure": 6,
+      "panel": "d",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig6/fig6_d.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig6/fig6_d.pdf",
+      "word_media": "word/media/image16.png",
+      "sha256": "baa1e6d49c1b9c81d633c3d8cfb49918cb3ad27d446f5123bab2b2e24fb30408"
+    },
+    {
+      "figure": 6,
+      "panel": "e",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig6/fig6_e.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig6/fig6_e.pdf",
+      "word_media": "word/media/image17.png",
+      "sha256": "cc119d75452cbb3d07e95c3adb78419ebeb8c3554b46ca8bc377a7ca3334c681"
+    },
+    {
+      "figure": 6,
+      "panel": "f",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig6/fig6_f.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig6/fig6_f.pdf",
+      "word_media": "word/media/image18.png",
+      "sha256": "f7f0f742f85764d31c7a0b3e42ed09c2d84039c4c5fdf2ddc157593fcf2978bc"
+    },
+    {
+      "figure": 7,
+      "panel": "a",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig7_primary/fig7_primary_a.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig7_primary/fig7_primary_a.pdf",
+      "word_media": "word/media/image19.png",
+      "sha256": "dbd61a4d20cdc713b35ca2e3d693167d22d7137c2494b2205ecb51c94fb86e64"
+    },
+    {
+      "figure": 7,
+      "panel": "b",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig7_primary/fig7_primary_b.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig7_primary/fig7_primary_b.pdf",
+      "word_media": "word/media/image20.png",
+      "sha256": "88e828f0ca1ee72f871f182d6212b63b69289bb1298b928fa74c6e24d7bc8764"
+    },
+    {
+      "figure": 8,
+      "panel": "a",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig8/fig8_a.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig8/fig8_a.pdf",
+      "word_media": "word/media/image21.png",
+      "sha256": "19645fbd1ae0c53dbc58d24d6cba62ec399aebdd4630f4e87f370ad14c1a741c"
+    },
+    {
+      "figure": 8,
+      "panel": "b",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig8/fig8_b.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig8/fig8_b.pdf",
+      "word_media": "word/media/image22.png",
+      "sha256": "6c82980d79e4d772f7de7f23b3ac043eda56161cd283401193e95a0c74144674"
+    },
+    {
+      "figure": 9,
+      "panel": "a",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig9_primary/fig9_primary_a.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig9_primary/fig9_primary_a.pdf",
+      "word_media": "word/media/image23.png",
+      "sha256": "36f8c203c28f83ccf3cf19e51e5e11b0b1d98413a4fe2d8244756f3320a8baae"
+    },
+    {
+      "figure": 9,
+      "panel": "b",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig9_primary/fig9_primary_b.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig9_primary/fig9_primary_b.pdf",
+      "word_media": "word/media/image24.png",
+      "sha256": "46649eaf9e5f4527fd02ff16906670d1d7e659637b76993828deaf8fc1751830"
+    },
+    {
+      "figure": 9,
+      "panel": "c",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig9_primary/fig9_primary_c.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig9_primary/fig9_primary_c.pdf",
+      "word_media": "word/media/image25.png",
+      "sha256": "67ad7adc21d1acc219dac57d1e96b5b3bd6b90ddb80a44f4444010607b456d5b"
+    },
+    {
+      "figure": 10,
+      "panel": "a",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig10/fig10_a.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig10/fig10_a.pdf",
+      "word_media": "word/media/image26.png",
+      "sha256": "67a16da65fd7d25dd23e279717a9e423e69dcf03a74048a6274457c4a8679ed1"
+    },
+    {
+      "figure": 10,
+      "panel": "b",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig10/fig10_b.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig10/fig10_b.pdf",
+      "word_media": "word/media/image27.png",
+      "sha256": "c55044ad193a9560dbf36dd3a0b378326de4bbcb3bb78178de20f8d35680ee29"
+    },
+    {
+      "figure": 10,
+      "panel": "c",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig10/fig10_c.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig10/fig10_c.pdf",
+      "word_media": "word/media/image28.png",
+      "sha256": "f31e9d9ff2c527b78ddfd8c8159c8b5552493b747ed3c05ac2ec90a1c882f906"
+    },
+    {
+      "figure": 10,
+      "panel": "d",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig10/fig10_d.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig10/fig10_d.pdf",
+      "word_media": "word/media/image29.png",
+      "sha256": "02806e402e0c902880d11574b976757d8d327333411b1b8e971c9441260ff9e7"
+    },
+    {
+      "figure": 11,
+      "panel": "a",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig11/fig11_b.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig11/fig11_b.pdf",
+      "word_media": "word/media/image30.png",
+      "sha256": "dcff52ba9778852a9301379aa9f481b370cf0c2ec740ec2e8f2a595f708d2718"
+    },
+    {
+      "figure": 11,
+      "panel": "b",
+      "image": "figures/experimental/fig5_to_fig11/outputs/fig11/fig11_d.png",
+      "vector": "figures/experimental/fig5_to_fig11/outputs/fig11/fig11_d.pdf",
+      "word_media": "word/media/image31.png",
+      "sha256": "e8b911076264c8b64368f2a1d10c6ef538c80966f88f3dbc075bed59f5ad8cb8"
+    }
+  ]
+}

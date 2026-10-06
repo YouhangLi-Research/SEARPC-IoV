@@ -1,0 +1,14 @@
+{
+  "cells": 160,
+  "cold_rows": 80,
+  "malicious_trusted_authorization_observed": false,
+  "mode": "full",
+  "reference_comparison": {
+    "cells": 12,
+    "maximum_absolute_error": 1.1102230246251565e-16,
+    "pass": true,
+    "reference": "figures/experimental/fig5_to_fig11/data/RQ2_uniform_summary.csv",
+    "values_checked": 444
+  },
+  "uniform_rows": 240
+}
